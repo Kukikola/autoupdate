@@ -1,8 +1,8 @@
 {
-  "bootstrap-version": "2",
-  "bootstrap-size": "1885948",
-  "bootstrap-object": "2d213bab1cd636ffb0298f10a524fe831f38fe5a94cc2bae47757f2e48ec7944",
-  "game-version": "2",
-  "timestamp": "2025-10-05 20:56:17",
+  "bootstrap-version": "3",
+  "bootstrap-size": "1888212",
+  "bootstrap-object": "64b0d207ac74776cd26a3996a54ec7807263b186429bb215678ffa883fd1f0d9",
+  "game-version": "3",
+  "timestamp": "2025-10-05 20:57:50",
   "channel": "production"
 }
