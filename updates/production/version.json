@@ -1,7 +1,7 @@
 {
-  "bootstrap-version": 16,
-  "bootstrap-size": 5164032,
-  "bootstrap-object": "bee16b7f02bb4eb19160d23f2713a23e295bbb2ba873ae2226efdc8ec5331a89",
-  "timestamp": "2025-10-07 12:20:51",
+  "bootstrap-version": 1,
+  "bootstrap-size": 5747200,
+  "bootstrap-object": "3146b6af5b747d2704bc4124625e57fae46849e15db802f6293719a1d9be33bb",
+  "timestamp": "2025-10-07 22:39:10",
   "channel": "production"
 }
